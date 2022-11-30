@@ -1,14 +1,11 @@
 <div align="center">
 <br><br><br>
 
-<div align="left">
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=E06C75&size=35&center=true&vCenter=true&width=404&height=53&lines=Welcome%2C+I'm+Jae+Kyung;Welcome%2C+I'm+James)](https://git.io/typing-svg)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftherealjamesjung&count_bg=%23D07376&title_bg=%23555555&icon_color=%23E7E7E7&icon=github.svg&icon_color=%23E06C75&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
 
 <br><br><br>
 
