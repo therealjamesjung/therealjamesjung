@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>James Jung</h1> 
+<div style="font-size: 2em; font-weight:600">James Jung</div> 
 
 <div align="left">
 
