@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=therealjamesjung&theme=onedark&hide_border=true&count_private=true" width=49.2% />
 </a>
 <a href="https://github.com/devpla/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealjamesjung&layout=compact&exclude_repo=sejongsilloc,sw-evaluation,ML_2022,42Cursus,Marble,AI_2022,42Piscine,AlgorithmClass&theme=onedark" width=49.2% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealjamesjung&layout=compact&exclude_repo=sejongsilloc,sw-evaluation,ML_2022,42Cursus,Marble,AI_2022,42Piscine,AlgorithmClass&theme=onedark&hide_border=true" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=therealjamesjung&theme=one-dark" width=98%/>
