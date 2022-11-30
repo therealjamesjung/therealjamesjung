@@ -1,9 +1,11 @@
 <div align="center">
 
-# James Jung
+<h1>James Jung</h1> 
+
 <div align="left">
 
 > therealjamesjung
+>
 > That's me
 
 </div>
