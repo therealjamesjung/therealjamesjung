@@ -6,6 +6,6 @@
 
 [![therealjamesjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealjamesjung&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealjamesjung&layout=compact&exclude_repo=sejongsilloc,sw-evaluation,ML_2022,42Cursus,Marble,AI_2022,42Piscine,AlgorithmClass)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealjamesjung&layout=compact&exclude_repo=sejongsilloc,sw-evaluation,ML_2022,42Cursus,Marble,AI_2022,42Piscine,AlgorithmClass&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![therealjamesjung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=therealjamesjung)](https://github.com/anuraghazra/github-readme-stats)
+[![therealjamesjung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=therealjamesjung&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
