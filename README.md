@@ -5,9 +5,9 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=therealjamesjung&theme=onedark"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=therealjamesjung&theme=onedark"  width="90%"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealjamesjung&layout=compact&exclude_repo=sejongsilloc,sw-evaluation,ML_2022,42Cursus,Marble,AI_2022,42Piscine,AlgorithmClass&theme=onedark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealjamesjung&layout=compact&exclude_repo=sejongsilloc,sw-evaluation,ML_2022,42Cursus,Marble,AI_2022,42Piscine,AlgorithmClass&theme=onedark" width="90%"/>
 
 <!-- 
 [![therealjamesjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealjamesjung&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
