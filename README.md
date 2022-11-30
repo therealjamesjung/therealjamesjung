@@ -15,6 +15,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=therealjamesjung&theme=one-dark&hide_border=true" width=98%/>
 </a>
 
-<br><br><br>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftherealjamesjung&count_bg=%23D07376&title_bg=%23555555&icon_color=%23E7E7E7&icon=github.svg&icon_color=%23E06C75&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
