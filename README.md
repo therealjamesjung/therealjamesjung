@@ -17,6 +17,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealjamesjung&layout=compact&exclude_repo=sejongsilloc,sw-evaluation,ML_2022,42Cursus,Marble,AI_2022,42Piscine,AlgorithmClass&theme=onedark" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=therealjamesjung&theme=one-dark" width=99.5%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=therealjamesjung&theme=one-dark" width=98%/>
 </a>
 </div>
